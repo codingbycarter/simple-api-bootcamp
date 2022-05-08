@@ -1,4 +1,4 @@
-# 📊 Project: Simple API 1
+# 📊 Project: Simple API 1: Kanye West Quote Api
 
 ### Goal: Display data returned from an api
 
@@ -10,9 +10,9 @@
 - Push to your fork
 - Issue a pull request
 - Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
+  - (1 to 5 no 3) I completed the challenge:5
+  - (1 to 5 no 3) I feel good about my code:5
+  - Anything specific on which you want feedback! N/A 
 
 Example:
 ```
